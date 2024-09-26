@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module test_bench;
+module mux_tb;
     reg a, b;
     wire xor_out, xnor_out;
          
